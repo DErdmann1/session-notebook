@@ -11,13 +11,13 @@ Git-Tools
 
 - git init (.) = Dateien an Git anbinden / mit Punkt alle Dateien, ohne Punkt bloß einzelne Datei
 
-- git add . = Stagen 
+(- git add . = to update what will be committed (Stagen) 
 
 - git commit -m"..." = commiten
 
 - git push (-u) = pushen (-u nur wenn der aktuelle Branch gepusht werden soll)
 
-- git pull = Verwenden um Inhalte aus einem Repository herunterzuladen und das lokale Repository zu aktualisieren
+- git pull = Verwenden um Inhalte aus einem Repository herunterzuladen und das lokale Repository zu aktualisieren)
 
 - git branch = aktuellen Branch anzeigen lassen 
 
